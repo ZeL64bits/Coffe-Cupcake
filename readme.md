@@ -18,7 +18,7 @@ Meu projeto, feito com as aulas da Rocketseat🚀.
 <br>
 
 <p align="center">
-  <img alt="Coffe Cupcake" src="./readme.md" width="100%">
+  <img alt="Coffe Cupcake" src="./github/readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
